@@ -3,15 +3,14 @@
 	"id": "better-sorting",
 	"version": "${version}",
 	"name": "better-sorting",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A quality of life mod that uses the Fabric API to sort your inventory and chests. It can also allocate zones to store items in your chests.",
 	"authors": [
-		"Me!"
+		"aellul27!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/aellul27/better-sorting"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0-or-later",
 	"icon": "assets/better-sorting/icon.png",
 	"environment": "*",
 	"entrypoints": {
